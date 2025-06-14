@@ -80,3 +80,9 @@ This analysis helps retail businesses:
 - Optimize inventory based on popular categories
 - Identify peak sales days and months
 - Personalize marketing strategies based on age/gender segments
+
+---
+
+🧠 Author
+Manthan Palde
+Data Science and AI Enthusiast
