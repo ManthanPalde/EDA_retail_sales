@@ -83,7 +83,7 @@ This analysis helps retail businesses:
 
 ---
 
-##🧠 Author
+## 🧠 Author
 
 -Manthan Palde
--Data Science and AI Enthusiast
+Data Science and AI Enthusiast
